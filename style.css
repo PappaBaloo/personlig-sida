@@ -25,3 +25,10 @@ nav a {
   color: white;
   text-align: center;
 }
+
+.pic_container {
+  display: flex;
+  justify-content: center;
+  height: 800px;
+  width: 100px;
+}
