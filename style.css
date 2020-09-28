@@ -1,6 +1,27 @@
-header {
-  font-family: "Open Sans", sans-serif;
+body {
+  margin: 0;
+  padding: 0;
 }
 
-nav ul li {
+header {
+  font-family: "Open Sans", sans-serif;
+  background-color: darkgreen;
+  color: white;
+  padding: 8px;
+  display: flex;
+  justify-content: space-between;
+}
+
+header nav li {
+  list-style: none;
+  text-align: right;
+  display: inline-block;
+  padding-left: 6px;
+  margin-top: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+  text-align: center;
 }
