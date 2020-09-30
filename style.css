@@ -2,6 +2,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-color: darkgreen;
 }
 
 header {
@@ -39,5 +40,22 @@ nav a {
   height: 100%;
 }
 
+h3 {
+  font-family: "Open Sans", sans-serif;
+  background-color: darkgreen;
+  color: white;
+  text-align: center;
+}
+
 .first_table {
+  display: flex;
+  border-color: white;
+}
+
+#desc_p {
+  background-color: darkgreen;
+  font-family: "Open Sans", sans-serif;
+  color: white;
+  padding: 20px;
+  text-align: center;
 }
