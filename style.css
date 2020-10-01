@@ -44,6 +44,7 @@ h2 {
   font-family: "Open Sans", sans-serif;
   color: white;
   text-align: center;
+  padding-top: 20px;
 }
 
 .first_table {
@@ -54,8 +55,19 @@ h2 {
 #desc_p {
   font-family: "Open Sans", sans-serif;
   color: white;
-  padding: 20px;
+  padding-top: 20px;
   text-align: center;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+#desc_p1 {
+  font-family: "Open Sans", sans-serif;
+  color: white;
+  padding-top: 20px;
+  text-align: center;
+  padding-left: 200px;
+  padding-right: 200px;
 }
 
 form {
@@ -78,4 +90,20 @@ input:hover {
   font-size: 12pt;
   font-family: "Open Sans", sans-serif;
   transition: 0.3s;
+}
+
+#copywrite {
+  font-family: "Open Sans", sans-serif;
+  color: white;
+  text-align: center;
+}
+
+.footerhero {
+  font-family: "Open Sans", sans-serif;
+  color: white;
+  text-align: center;
+}
+
+#list1 {
+  list-style-type: none;
 }
