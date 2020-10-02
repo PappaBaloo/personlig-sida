@@ -318,11 +318,13 @@ input:not(:hover) {
   text-align: center;
 }
 
-.ageofwarcontain {
+#ageofwarcontain {
   display: flex;
   height: 600px;
 }
 
 .ageofwar {
   margin: auto;
+  padding: 50px;
+  background-color: teal;
 }
