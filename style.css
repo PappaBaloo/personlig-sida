@@ -310,3 +310,19 @@ input:not(:hover) {
   color: white;
   transition: 0.4s;
 }
+
+#ageofwarh {
+  padding: 30px;
+  font-family: "Open Sans", sans-serif;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.ageofwarcontain {
+  display: flex;
+  height: 600px;
+}
+
+.ageofwar {
+  margin: auto;
+}
