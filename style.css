@@ -156,16 +156,15 @@ input:not(:hover) {
   color: white;
   padding: 20px;
   background-color: darkgreen;
+  text-align: center;
+  list-style: none;
 }
 
-#list1 {
+.footerlist {
   list-style: none;
-  padding-left: 6px;
-  background-color: darkgreen;
-  padding-bottom: 10px;
-  margin-left: auto;
 }
 
-#kontakta_mig {
-  list-style: none;
+#kontakt_title {
+  text-decoration: underline;
+  margin-right: 10px;
 }
