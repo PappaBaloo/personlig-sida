@@ -168,3 +168,43 @@ input:not(:hover) {
   text-decoration: underline;
   margin-right: 10px;
 }
+
+#hem:hover {
+  font-size: 17pt;
+  transition: 0.5s;
+}
+
+#hem:not(:hover) {
+  font-size: 12pt;
+  transition: 0.5s;
+}
+
+#litemer:hover {
+  font-size: 17pt;
+  transition: 0.5s;
+}
+
+#litemer:not(:hover) {
+  font-size: 12pt;
+  transition: 0.5s;
+}
+
+#kontakt:hover {
+  font-size: 17pt;
+  transition: 0.5s;
+}
+
+#kontakt:not(:hover) {
+  font-size: 12pt;
+  transition: 0.5s;
+}
+
+#framtiden:hover {
+  font-size: 17pt;
+  transition: 0.5s;
+}
+
+#framtiden:not(:hover) {
+  font-size: 12pt;
+  transition: 0.5s;
+}
